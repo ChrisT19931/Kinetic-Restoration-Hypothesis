@@ -41,4 +41,5 @@ Pethick, C. J., & Smith, H. (2008). "Bose-Einstein Condensation in Dilute Gases.
 Dalibard, J., & Cohen-Tannoudji, C. (1989). "Laser cooling below the Doppler limit." * Relevance: This provides the technical context for how we manipulate atoms to reach these low-velocity states. It establishes the "trapping mechanism" your theory challenges.
 
 # VI. Computational Simulation
-![Temporal Snapback Graph](simulation_image.png)
+
+![Temporal Snapback Graph](Simulation_Image.png)

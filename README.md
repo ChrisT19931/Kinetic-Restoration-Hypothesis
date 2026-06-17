@@ -39,3 +39,6 @@ Dalfovo, F., et al. (1999). "Theory of Bose-Einstein condensation in trapped gas
 Pethick, C. J., & Smith, H. (2008). "Bose-Einstein Condensation in Dilute Gases." * Relevance: Discusses the limitations of the "static" approximation in condensate trapped potentials. It highlights the transition from dynamic fluid-like behavior to the artificial static potential imposed by lasers.
 
 Dalibard, J., & Cohen-Tannoudji, C. (1989). "Laser cooling below the Doppler limit." * Relevance: This provides the technical context for how we manipulate atoms to reach these low-velocity states. It establishes the "trapping mechanism" your theory challenges.
+
+# VI. Computational Simulation
+![Temporal Snapback Graph](simulation_image.png)

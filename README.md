@@ -1,6 +1,6 @@
 #The Kinetic Restoration Hypothesis: Accounting for Singularities in Zero-Velocity States
 
-Author: Independent Researcher Christopher Troiano (AKA Kris Tee)
+Author: Independent Researcher Kris Tee
 
 Date: June 2026
 

@@ -34,7 +34,7 @@ The Kinetic Restoration Hypothesis shifts the focus from fixing broken equations
 V. References and Context
 The following literature explores the limitations of current semiclassical and quantum models when applied to absolute ground-state systems, providing the foundation for the Kinetic Restoration Hypothesis:
 
-Dalfovo, F., et al. (1999). "Theory of Bose-Einstein condensation in trapped gases." Reviews of Modern Physics.Relevance: This paper outlines the standard Mean-Field Theory (Gross-Pitaevskii equation). Your theory addresses the divergence points where these mean-field approximations fail as the system approaches a true $v=0$ singularity.
+Dalfovo, F., et al. (1999). "Theory of Bose-Einstein condensation in trapped gases." Reviews of Modern Physics.Relevance: This paper outlines the standard Mean-Field Theory (Gross-Pitaevskii equation). The theory addresses the divergence points where these mean-field approximations fail as the system approaches a true $v=0$ singularity.
 
 Pethick, C. J., & Smith, H. (2008). "Bose-Einstein Condensation in Dilute Gases." * Relevance: Discusses the limitations of the "static" approximation in condensate trapped potentials. It highlights the transition from dynamic fluid-like behavior to the artificial static potential imposed by lasers.
 

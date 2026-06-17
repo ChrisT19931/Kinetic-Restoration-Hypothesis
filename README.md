@@ -4,7 +4,7 @@ Author: Independent Researcher Kris Tee
 
 Date: June 2026
 
-Abstract Current quantum mechanical and thermodynamic models treat the forced absolute arrest of an atomic system as a state of static equilibrium. This paper introduces the Kinetic Restoration Hypothesis, which posits that a zero-velocity state ($v = 0$) induced by external trapping mechanisms (such as laser cooling) is not an equilibrium, but a fundamental temporal violation. We propose that the mathematical divergences (infinities) encountered at these boundaries are physical indicators of state impossibility, and predict a measurable, non-thermal restorative energy spike—a "temporal snapback"—the exact microsecond the external trapping potential is removed.
+Current quantum mechanical and thermodynamic models treat the forced absolute arrest of an atomic system as a state of static equilibrium. This paper introduces the Kinetic Restoration Hypothesis, which posits that a zero-velocity state ($v = 0$) induced by external trapping mechanisms (such as laser cooling) is not an equilibrium, but a fundamental temporal violation. We propose that the mathematical divergences (infinities) encountered at these boundaries are physical indicators of state impossibility and predict a measurable, non-thermal restorative energy spike—a "temporal snapback"—the exact microsecond the external trapping potential is removed.
 
 I. Introduction: The Dynamic ParadigmStandard modern physics is built entirely upon the observation and calculation of a dynamic universe defined by constant motion. Every governing equation, from Newtonian mechanics to relativistic frameworks, assumes a baseline of kinetic existence.
 

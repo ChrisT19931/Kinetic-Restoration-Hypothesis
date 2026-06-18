@@ -29,10 +29,10 @@ The Mechanism: This signature is a Temporal Snapback—a localized, restorative 
 
 Verification: If experimental laboratories monitor the exact cutoff window during trap-release spectroscopy, they will detect an anomalous energy surplus ($\Delta E$) that cannot be accounted for by standard thermodynamic expansion.
 
-IV. Conclusion
+IV. Conclusion:
 The Kinetic Restoration Hypothesis shifts the focus from fixing broken equations to recognizing the physical boundary conditions of reality. The universe demands motion. By recognizing that absolute stagnation is a state of temporal violation, we resolve the mathematical singularities of zero-velocity systems and open a new pathway toward understanding the kinetic fabric of space-time.
 
-V. References and Context
+V. References and Context:
 The following literature explores the limitations of current semiclassical and quantum models when applied to absolute ground-state systems, providing the foundation for the Kinetic Restoration Hypothesis:
 
 Dalfovo, F., et al. (1999). "Theory of Bose-Einstein condensation in trapped gases." Reviews of Modern Physics.Relevance: This paper outlines the standard Mean-Field Theory (Gross-Pitaevskii equation). The theory addresses the divergence points where these mean-field approximations fail as the system approaches a true $v=0$ singularity.

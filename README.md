@@ -41,6 +41,12 @@ Pethick, C. J., & Smith, H. (2008). "Bose-Einstein Condensation in Dilute Gases.
 
 Dalibard, J., & Cohen-Tannoudji, C. (1989). "Laser cooling below the Doppler limit." * Relevance: This provides the technical context for how we manipulate atoms to reach these low-velocity states. It establishes the "trapping mechanism" your theory challenges.
 
+Intellectual Property & Development Methodology:
+
+Core Conceptualization & Architecture: The foundational logic and the core premise of reality-tension within static systems is the exclusive intellectual property of the Lead Author, Kris Tee.
+
+Collaborative Intelligence Integration: Advanced Artificial Intelligence was utilized strictly as a high-fidelity technical compiler. The AI’s function was limited to auditing academic literature for structural blind spots, optimizing rigorous mathematical and physical nomenclature and refining the document's formal taxonomy. 
+
 # VI. Computational Simulation
 
 ![Temporal Snapback Graph](Simulation_Image.png)

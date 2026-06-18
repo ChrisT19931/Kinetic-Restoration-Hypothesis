@@ -19,7 +19,7 @@ The Mathematical Divergence Rule: The math explodes into infinity because the eq
 
 When external lasers force an atom's velocity to absolute zero, the measurements become irrelevant because the system has been forced outside the boundaries of the local timeline.
 
-III. The Empirical Prediction: The Temporal SnapbackA theory is only valid if it makes a falsifiable prediction that can be verified in a laboratory environment. The validation of this hypothesis does not exist while the atom is held in its frozen state, but in the exact microsecond the trapping mechanism is deactivated.[Trapping Lasers Active: v=0] ---> (Lasers Terminated) ---> [Microsecond Cutoff Window: RESTORATION SPIKE]
+III. The Empirical Prediction: The Temporal SnapbackA theory is only valid if it makes a falsifiable prediction that can be verified in a laboratory environment. The validation of this hypothesis does not exist while the atom is held in its frozen state, but in the exact microsecond the trapping mechanism is deactivated.
 
 Current models assume that when the trapping lasers are turned off, the atom will simply begin to disperse thermally based on standard ambient kinetics. This hypothesis predicts an entirely different phenomenon:
 

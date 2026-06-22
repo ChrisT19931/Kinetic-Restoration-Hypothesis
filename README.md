@@ -11,7 +11,7 @@ Standard modern physics is built entirely upon the observation and calculation o
 
 However, modern experimental physics utilizes high-powered localized lasers to systematically eliminate atomic motion, forcing particles into an artificial standstill. Current frameworks treat this absolute ground state as a compliant, static snapshot. The Kinetic Restoration Hypothesis asserts that this premise is fundamentally flawed: you cannot calculate a living, moving universe using a snapshot of absolute standstill. Forcing an atom into literal, static death violates the foundational rules of reality.
 
-II. The Core Argument: Infinity as a Physical BoundaryWhen physicists attempt to calculate the exact state of an atom forced into zero-velocity via laser-cooling protocols, the governing mathematics frequently break down into singularities and divergences - exploding into infinity.
+II. The Core Argument: Infinity as a Physical Boundary. When physicists attempt to calculate the exact state of an atom forced into zero-velocity via laser-cooling protocols, the governing mathematics frequently break down into singularities and divergences - exploding into infinity.
 
 In standard physics, an infinity in the math is often treated as a bookkeeping error or a limitation of the current model. The Kinetic Restoration Hypothesis reinterprets these mathematical explosions as literal physical evidence:
 
